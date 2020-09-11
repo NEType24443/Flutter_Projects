@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643497546723",
+    "firebase_url": "https://workshop-day-3.firebaseio.com",
+    "project_id": "workshop-day-3",
+    "storage_bucket": "workshop-day-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643497546723:android:c0c648e9df0ef2e0e446d6",
+        "android_client_info": {
+          "package_name": "com.example.workshop_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643497546723-hp6ijn9173vehhr7n07jb15v3qb2707m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workshop_2",
+            "certificate_hash": "36d731c262e74c11bc3c7ec6dbd6c9e401b2cbd0"
+          }
+        },
+        {
+          "client_id": "643497546723-1aak559e2p2q5du55ibe8skjug7s95p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2J9qHt2Ny6SeTwYU8zM7uEf1ojdtgKF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643497546723-1aak559e2p2q5du55ibe8skjug7s95p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
